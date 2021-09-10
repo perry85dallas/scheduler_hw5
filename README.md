@@ -13,7 +13,13 @@
  
  SCREENSHOTS
  
- 
+ ![Screen Shot 2021-09-10 at 2 33 22 PM](https://user-images.githubusercontent.com/86323038/132907735-384c1da0-0974-47d4-b26b-3bd4f9c2641d.png)
+
+<img width="776" alt="Screen Shot 2021-09-10 at 2 35 21 PM" src="https://user-images.githubusercontent.com/86323038/132907839-88faf8ab-0441-496d-9ed2-333d538c22b3.png">
+
+<img width="412" alt="Screen Shot 2021-09-10 at 2 35 54 PM" src="https://user-images.githubusercontent.com/86323038/132907884-112846b2-b959-4b2b-ba40-7a020e07fc48.png">
+
+<img width="631" alt="Screen Shot 2021-09-10 at 2 36 31 PM" src="https://user-images.githubusercontent.com/86323038/132907991-9e6dbc91-bc19-4f45-a2a7-debde8768ab5.png">
  
  
  
@@ -22,7 +28,7 @@
  
  LINKS
  
- 
+ https://perry85dallas.github.io/scheduler_hw5/
  
  RESOURCES
  
